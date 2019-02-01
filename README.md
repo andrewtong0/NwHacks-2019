@@ -2,7 +2,7 @@
 
 ![Sample Output of a ProfStats Query](https://i.imgur.com/Med1pYx.png)
 
-ProfStats was my team's submission to the nwHacks 2019 Hackathon. You can find our full submission details at our devpost link, [here](https://devpost.com/software/profstats) Our project was a nominee for Microsoft's "Azure Prize Champ", and Hootsuite's "Hack that Best Champions the Power of Human Connection".
+ProfStats was my team's submission to the nwHacks 2019 Hackathon. You can find our full submission details at our devpost link, [here](https://devpost.com/software/profstats). Our project was a nominee for Microsoft's "Azure Prize Champ", and Hootsuite's "Hack that Best Champions the Power of Human Connection".
 
 ### How It Works
 - The user queries a professor to a Slack bot
